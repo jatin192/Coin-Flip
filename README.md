@@ -10,7 +10,7 @@ step 2->      call send_Money_to_smart_contract() for different account
               ->you can also check balance in smart contract by calling Check_Money_in_Smart_contractt();
               
 step 3->      call rewardBets() that will call getRandomNumber automatically
-              You can check the balance of some accounts now that it has increased 
+              now You can check the balance of some accounts now that it has increased 
 
 
 for example 
