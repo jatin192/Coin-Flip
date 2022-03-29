@@ -33,4 +33,4 @@ for implementation  of RandomNumber
 
 you have select Injected Web3 in ENVIRONMENT in Remix
 
-i am using Rinkeby testnet Coordinator Parameters i you want any  other testnet you can simply change parameter from this Link:{https://docs.chain.link/docs/vrf-contracts/}
+i am using Rinkeby testnet Coordinator Parameters if you want to use use any other testnet you can simply change parameter from this Link:{https://docs.chain.link/docs/vrf-contracts/}
